@@ -2,7 +2,7 @@
 
 ## Summary
 
-Tested Kronos, a viral open-source model that predicts trading candles, with Grok Bot ([@bot](https://x.com/bot)). Posted at 3:50 PM Bogotá time ([post](https://x.com/robzu99/status/2115184273795743916)); the post quotes an earlier post ([quoted post](https://x.com/robzu99/status/2115181750213312534)). Not trading advice.
+Tested Kronos, a viral open-source model that predicts trading candles, with Grok Bot ([@bot](https://x.com/bot)). Posted at 3:50 PM Bogotá time ([post](https://x.com/robzu99/status/2115185633522278879)); the post quotes an earlier post ([quoted post](https://x.com/robzu99/status/2115181750213312534)). Not trading advice.
 
 ## Objective
 
@@ -36,6 +36,6 @@ The gate failed (IC_res 0.008, t 0.19), so the test window never ran and the Apr
 
 ## Sources
 
-- Day 3 post, 3:50 PM Bogotá time: https://x.com/robzu99/status/2115184273795743916
+- Day 3 post, 3:50 PM Bogotá time: https://x.com/robzu99/status/2115185633522278879
 - Quoted post: https://x.com/robzu99/status/2115181750213312534
 - Kronos: https://github.com/shiyu-coder/Kronos
