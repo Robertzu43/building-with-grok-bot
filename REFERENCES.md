@@ -4,5 +4,4 @@ Every cited repo is credited here with its link and license.
 
 | Repo | Link | License | Used for |
 | --- | --- | --- | --- |
-
-No repos are cited yet.
+| Kronos | https://github.com/shiyu-coder/Kronos | MIT | model tested on day 3 |
