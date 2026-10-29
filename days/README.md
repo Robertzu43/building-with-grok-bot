@@ -10,4 +10,4 @@ Files are named `day-NN.md`.
 - The next day is `day-01.md`, then `day-02.md`, and so on.
 - `NN` is the day index, zero-padded to two digits (`day-00` through `day-09`).
 
-The first entry is [`day-00.md`](day-00.md). Day 1 is [`day-01.md`](day-01.md). Day 2 is [`day-02.md`](day-02.md). Day 3 is [`day-03.md`](day-03.md). Day 4 is [`day-04.md`](day-04.md).
+The first entry is [`day-00.md`](day-00.md). Day 1 is [`day-01.md`](day-01.md). Day 2 is [`day-02.md`](day-02.md). Day 3 is [`day-03.md`](day-03.md). Day 4 is [`day-04.md`](day-04.md). Day 5 is [`day-05.md`](day-05.md).
